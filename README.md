@@ -11,6 +11,6 @@ npm run dev
 ### [点击这里预览效果](http://47.106.148.198/vue)  
 
 ```bash
-please press down F12 then ctrl + shift + m
+please press down F12 then ctrl+shift+m
 ```
 

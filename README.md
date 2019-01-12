@@ -1,22 +1,13 @@
 # vue_1
 
-### [program preview please click](http://47.106.148.198/vue)
-
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+npm i
 
 # serve with hot reload at localhost:80
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
 ```
+### [点击这里预览效果](http://47.106.148.198/vue)
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

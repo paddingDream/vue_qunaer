@@ -18,7 +18,6 @@ npm run build
 npm run build --report
 
 ```
-
-<font color=#0099ff size=20 face="黑体">this</font>
+<b>[program preview please click](http://47.106.148.198/vue)<b>
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

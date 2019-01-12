@@ -1,4 +1,3 @@
-# vue_1
 
 ## Build Setup
 

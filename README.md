@@ -16,7 +16,9 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+
 ```
-[program preview please click](http://http://47.106.148.198/vue)
+
+<font color=#0099ff size=7 face="黑体">[program preview please click](http://47.106.148.198/vue)</font>
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

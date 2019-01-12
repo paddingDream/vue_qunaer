@@ -1,6 +1,6 @@
 # vue_1
 
-# <b>[program preview please click](http://47.106.148.198/vue)<b>
+### [program preview please click](http://47.106.148.198/vue)
 
 ## Build Setup
 

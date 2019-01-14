@@ -12,4 +12,5 @@ npm run dev
 
 ```bash
 please press down F12
+```
 
